@@ -1,0 +1,41 @@
+.footer{
+    min-height: 50vh;
+}
+
+.footer1{
+    padding: 7rem 15rem;
+    display: flex;
+    align-items: center;
+    justify-content: space-between;
+}
+
+.box{
+    min-height: 5vh;
+    display: flex;
+    flex-direction: column;
+}
+
+.boxTop{
+    padding-bottom: 1rem;
+}
+
+.heading1{
+    padding-bottom: 2rem;
+}
+
+.footer2{
+    padding: 0 15rem 7rem 15rem;
+    display: flex;
+    align-items: center;
+    justify-content: space-between;
+}
+
+.apps{
+    display: flex;
+    gap: 2rem;
+}
+
+.socialMedia{
+    display: flex;
+    gap: 1.5rem;
+}

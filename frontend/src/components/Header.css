@@ -1,0 +1,42 @@
+.header{
+    padding: 2rem 5rem;
+    font-size: 1.1rem;
+    display: flex;
+    align-items: center;
+    justify-content: space-between;
+    min-height: 10vh;
+}
+
+.header1{
+    display: flex;
+    gap: 2rem;
+}
+
+.header1 a {
+    color: white;
+}
+
+.header2{
+    font-size: 3rem;
+    letter-spacing: 0.1rem;
+    text-transform: uppercase;
+}
+
+.header3 {
+    display: flex;
+    gap: 2rem;
+}
+
+.header3 button{
+    font-size: 1rem;
+    color: white;
+    background-color: black;
+    padding: 1rem 2rem;   
+    border: 2px solid white;
+    border-radius: 100px;
+    font-weight: bold;
+}
+
+.fa-solid{
+    padding-right: 0.3rem;   
+}
